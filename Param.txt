@@ -27,3 +27,5 @@ boosters.
 Engine : S139
 Fuel : HTPB
 Max. Thrust : 4800 kN
+
+Speed: 27,000 Km/hr
